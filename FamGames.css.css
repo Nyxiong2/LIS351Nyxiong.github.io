@@ -1,0 +1,17 @@
+
+body {
+	background-color:lightgreen;
+	margin:20px 100px 40px 40px;
+}
+
+h1 {
+	color:rgb(0, 153, 0);
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+}
+
+
+p {
+	color:rgb(0, 77, 0);
+	font-family:"Verdana", Helvetica, sans-serif;
+}
